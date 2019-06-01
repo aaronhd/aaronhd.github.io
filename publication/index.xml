@@ -6,18 +6,27 @@
     <description>Recent content in Publications on Yaoxian(Aaron)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aaronhd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://aaronhd.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>2.5D Image based Robotic Grasping</title>
+      <link>https://aaronhd.github.io/publication/anzcc2019/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronhd.github.io/publication/preprint/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+      <guid>https://aaronhd.github.io/publication/anzcc2019/</guid>
+      <description>We consider the problem of robotic grasping using depth + RGB information sampling from a real sensor. we design an encoder-decoder neural network to predict grasp policy in real time.</description>
+    </item>
+    
+    <item>
+      <title>UG-Net for Robotic Grasping using Only Depth Image</title>
+      <link>https://aaronhd.github.io/publication/rcar2019/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronhd.github.io/publication/rcar2019/</guid>
+      <description>Our proposed U-Grasping fully convolutional neural network (UGNet) predicts the quality and the pose of grasp in pixel-wise.</description>
     </item>
     
     <item>
@@ -30,11 +39,11 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://aaronhd.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>An example preprint / working paper</title>
+      <link>https://aaronhd.github.io/publication/preprint/</link>
+      <pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronhd.github.io/publication/conference-paper/</guid>
+      <guid>https://aaronhd.github.io/publication/preprint/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     

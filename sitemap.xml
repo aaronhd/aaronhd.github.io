@@ -35,47 +35,40 @@
   
   <url>
     <loc>https://aaronhd.github.io/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronhd.github.io/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://aaronhd.github.io/publication_types/1/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aaronhd.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://aaronhd.github.io/publication/anzcc2019/</loc>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronhd.github.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aaronhd.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aaronhd.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronhd.github.io/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaronhd.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://aaronhd.github.io/publication/rcar2019/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,6 +121,12 @@
   </url>
   
   <url>
+    <loc>https://aaronhd.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aaronhd.github.io/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -156,14 +155,20 @@
   </url>
   
   <url>
-    <loc>https://aaronhd.github.io/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://aaronhd.github.io/tags/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aaronhd.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://aaronhd.github.io/publication_types/3/</loc>
+    <lastmod>2010-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaronhd.github.io/publication/preprint/</loc>
+    <lastmod>2010-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
