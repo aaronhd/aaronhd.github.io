@@ -29,23 +29,5 @@
       <description>Our proposed U-Grasping fully convolutional neural network (UGNet) predicts the quality and the pose of grasp in pixel-wise.</description>
     </item>
     
-    <item>
-      <title>An example journal article</title>
-      <link>https://aaronhd.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronhd.github.io/publication/journal-article/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://aaronhd.github.io/publication/preprint/</link>
-      <pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronhd.github.io/publication/preprint/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
-    </item>
-    
   </channel>
 </rss>

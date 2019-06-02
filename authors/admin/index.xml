@@ -21,48 +21,21 @@
     </item>
     
     <item>
+      <title>The 1St Westlake University Academic Poster Competiton</title>
+      <link>https://aaronhd.github.io/post/poster_competition/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronhd.github.io/post/poster_competition/</guid>
+      <description>I achieved the First Prize in the competition!</description>
+    </item>
+    
+    <item>
       <title>UG-Net for Robotic Grasping using Only Depth Image</title>
       <link>https://aaronhd.github.io/publication/rcar2019/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aaronhd.github.io/publication/rcar2019/</guid>
       <description>Our proposed U-Grasping fully convolutional neural network (UGNet) predicts the quality and the pose of grasp in pixel-wise.</description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://aaronhd.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronhd.github.io/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://aaronhd.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronhd.github.io/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://aaronhd.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronhd.github.io/publication/journal-article/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://aaronhd.github.io/publication/preprint/</link>
-      <pubDate>Wed, 07 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronhd.github.io/publication/preprint/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
     <item>
