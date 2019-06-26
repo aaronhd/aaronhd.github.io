@@ -6,10 +6,19 @@
     <description>Recent content on Yaoxian(Aaron)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aaronhd.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I complete the appointment period of Founder Vice-president for Graduate Union of Westlake University</title>
+      <link>https://aaronhd.github.io/post/graduate_union/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronhd.github.io/post/graduate_union/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2.5D Image based Robotic Grasping</title>
@@ -41,7 +50,7 @@
     <item>
       <title></title>
       <link>https://aaronhd.github.io/authors/admin/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aaronhd.github.io/authors/admin/</guid>
       <description>Yaoxian Song is a joint PhD student at the Artificial Intelligent and Robotics Lab, Westlake University and Fudan University. His research interests include robotic arm control, machine vision, mobile vehicle control, edge computing and programmable matter. He is the student captain of robotic group at the lab assisting to construct robotics lab. He is also the vice president of Graduate Student Union.</description>
